@@ -1,0 +1,11 @@
+Package: WQIndex
+Type: Package
+Title: Water Quality Index
+Version: 1.0
+Date: 2014-08-08
+Author: Jigeeshu Joshi
+Maintainer: Jigeeshu Josi <jjosh01@uni-muenster.de>
+Description: Computes Water Quality Index and can be used for analysis of water usability
+License: GPL-2
+Depends: graphics, gplots
+Packaged: 2014-08-15 13:53:12 UTC; Jigeeshu Joshi
